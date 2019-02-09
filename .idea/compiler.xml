@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="cheese-mvc-persistent.main" target="1.8" />
       <module name="cheese-mvc-persistent.test" target="1.8" />
+      <module name="cheese-mvc-persistent1.main" target="1.8" />
+      <module name="cheese-mvc-persistent1.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
